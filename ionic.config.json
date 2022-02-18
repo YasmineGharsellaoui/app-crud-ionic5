@@ -1,0 +1,7 @@
+{
+  "name": "Migration3-5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
